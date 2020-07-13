@@ -16,7 +16,7 @@
 -->
 
 - 👨‍🎓 20 year old Computer Engineering Undergrad student.
-- 👨‍💻 #SelfTaught Developer.
+- 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android 🔥Firebase!
 - 🌐 Exploring Web development too.
