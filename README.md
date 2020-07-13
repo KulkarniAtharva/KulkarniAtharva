@@ -22,7 +22,7 @@
 - 🌐 Exploring Web development too.
 - 🤔 ML/AI Enthusiast
 - ✍️ Write stuff on Medium. <BR>
-- Loves 🎵 and 🎹.
+- Loves 🎵 
 - Proud 🇮🇳.
 
 ---
