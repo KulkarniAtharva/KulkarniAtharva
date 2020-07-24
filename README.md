@@ -15,6 +15,8 @@
 - ⚡ Fun fact: ...
 -->
 
+🎍 Welcome to my hub 👨‍💻
+
 - 👨‍🎓 20 year old Computer Engineering Undergrad student.
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
