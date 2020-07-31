@@ -26,7 +26,7 @@
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
 - Loves 🎵 
-- Proud 🇮🇳.🇮🇳
+- Proud 🇮🇳.
 
 ---
 
