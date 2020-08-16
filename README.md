@@ -26,7 +26,8 @@
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
 - Loves 🎵 
-- Proud 🇮🇳.
+- Proud 🇮🇳. <BR><BR>
+  
   
  
  ### Skills
@@ -40,6 +41,7 @@
   -	Tools : Git, GitHub, Firebase, JavaFX
   -	Others : Technical Writing, UI/UX Designing, Team Leadership
 
+<BR>
   
  ### No. of Projects completed
  
