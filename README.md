@@ -27,7 +27,15 @@
 - 🦉 Night Owl
 - Loves 🎵 
 - Proud 🇮🇳.
-
+  
+ ### No. of Projects completed
+ - 15 Mobile Applications
+ - 6 Desktop Applications
+ - 4 Web Projects
+ - 1 Android library/API
+ - 16 Certifications
+ - 
+ 
 ---
 
 #### 🔗 Know more about me here: [Atharva Kulkarni](https://kulkarniatharva.github.io)
