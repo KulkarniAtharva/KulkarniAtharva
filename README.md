@@ -32,14 +32,14 @@
  
  ### Skills
 
-  -	Languages : C, C++, Java, Python, HTML, CSS, JavaScript, Kotlin, PHP, Dart 
-  -	Databases : MySQL, MongoDB, Firebase
-  -	Frameworks : Android, Flutter, Bootstrap, Spring, Hibernate, Django, Angular
-  -	Computer Vision : OpenCV
-  -	Machine Learning
-  -	Deep Learning & Neural Networks
-  -	Tools : Git, GitHub, Firebase, JavaFX
-  -	Others : Technical Writing, UI/UX Designing, Team Leadership
+  -	**Languages :** C, C++, Java, Python, HTML, CSS, JavaScript, Kotlin, PHP, Dart 
+  -	**Databases :** MySQL, MongoDB, Firebase
+  -	**Frameworks :** Android, Flutter, Bootstrap, Spring, Hibernate, Django, Angular
+  -	**Computer Vision :** OpenCV
+  -	**Machine Learning**
+  -	**Deep Learning & Neural Networks**
+  -	**Tools :** Git, GitHub, Firebase, JavaFX
+  -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
 
 <BR>
   
