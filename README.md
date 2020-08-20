@@ -54,5 +54,5 @@
  
 ---
 
-#### 🔗 Know more about me here: [Atharva Kulkarni](https://kulkarniatharva.github.io)
+<!-- #### 🔗 Know more about me here: [Atharva Kulkarni](https://kulkarniatharva.github.io) -->
 
