@@ -35,7 +35,7 @@
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)    
 
 
-[![website](https://img.shields.io/badge/Portfolio%20Website-kulkarniatharva.github.io-blue)](kulkarniatharva.github.io)
+[![website](https://img.shields.io/badge/Portfolio%20Website-kulkarniatharva.github.io-blue)](https://kulkarniatharva.github.io)
 
  
  ### Skills
