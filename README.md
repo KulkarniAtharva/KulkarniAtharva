@@ -30,12 +30,7 @@
   
 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)    
 
-
-[![website](https://img.shields.io/badge/Portfolio%20Website-kulkarniatharva.github.io-blue)](https://kulkarniatharva.github.io)
 
  
  ### Skills
@@ -61,6 +56,15 @@
  - 1 Article published
  
 ---
+
+<!--
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)    -->
+
+
+[![website](https://img.shields.io/badge/Portfolio%20Website-kulkarniatharva.github.io-blue)](https://kulkarniatharva.github.io)
 
 <!-- #### 🔗 Know more about me here: [Atharva Kulkarni](https://kulkarniatharva.github.io) -->
 
