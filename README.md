@@ -25,7 +25,7 @@
 - 🤔 ML/AI Enthusiast
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
-- ⚡ Bohot Jiddi hoon. Jo bolta hoon karke dikhata hoon
+- ⚡ Bohot Jiddi hoon
 - Loves 🎵 
 - Proud 🇮🇳. <BR><BR>
   
