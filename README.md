@@ -42,7 +42,7 @@
   -	**Computer Vision :** OpenCV
   -	**Machine Learning**
   -	**Deep Learning & Neural Networks**
-  -	**Tools :** Git, GitHub, Firebase, JavaFX
+  -	**Tools :** Git, GitHub, Firebase, JavaFX, AWS
   -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
 
 <BR>
