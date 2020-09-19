@@ -36,7 +36,7 @@
  
  ### Skills
 
-  -	**Languages :** C, C++, Java, Python, HTML, CSS, JavaScript, Kotlin, PHP, Dart 
+  -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript, PHP
   -	**Databases :** MySQL, MongoDB, Firebase
   -	**Frameworks :** Android, Flutter, Bootstrap, Spring, Hibernate, Django, Angular
   -	**Computer Vision :** OpenCV
