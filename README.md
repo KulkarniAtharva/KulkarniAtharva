@@ -38,11 +38,11 @@
 
   -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript, PHP
   -	**Databases :** MySQL, MongoDB, Firebase
-  -	**Frameworks :** Android, Flutter, Bootstrap, Spring, Hibernate, Django, Angular
+  -	**Frameworks :** Android, Flutter, Bootstrap, Django, Angular
   -	**Computer Vision :** OpenCV
   -	**Machine Learning**
   -	**Deep Learning & Neural Networks**
-  -	**Tools :** Git, GitHub, Firebase, JavaFX, AWS, Adobe Illustrator
+  -	**Tools :** Git, GitHub, Firebase, JavaFX, AWS, Adobe Illustrator, Adobe After Effects
   -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
 
 <BR>
