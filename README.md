@@ -15,6 +15,8 @@
 - ⚡ Fun fact: ...
 -->
 
+
+<--
 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 20 year old Computer Engineering Undergrad student.
@@ -54,7 +56,7 @@
  - 5 Web Projects
  - 1 Android library/API
  - 16 Certifications
- - 1 Article published
+ - 1 Article published.  -->
  
 ---
 
