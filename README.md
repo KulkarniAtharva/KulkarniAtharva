@@ -42,9 +42,7 @@
   -	**Databases :** MySQL, MongoDB, Firebase
   -	**Frameworks :** Android, Flutter, Bootstrap, Django, Angular
   -	**Computer Vision :** OpenCV
-  -	**Machine Learning** : Numpy, Pandas, Tensorflow, Matplotlib
-  -	**Deep Learning & Neural Networks**
-  -	**Tools :** Git, GitHub, Firebase, JavaFX, AWS, Adobe Illustrator, Adobe After Effects
+  -	**Tools :** Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
   -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
 
 <BR>
