@@ -49,14 +49,14 @@
 
 <BR>
   
- ### No. of Projects completed
+<!-- ### No. of Projects completed
  
  - 15 Mobile Applications
  - 6 Desktop Applications which include projects in Python
  - 5 Web Projects
  - 1 Android library/API
  - 16 Certifications
- - 1 Article published.  
+ - 1 Article published.  -->
  
 ---
 
