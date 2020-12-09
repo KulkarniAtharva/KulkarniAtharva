@@ -38,9 +38,9 @@
  
  ### Skills
 
-  -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript, PHP
+  -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript
   -	**Databases :** MySQL, MongoDB, Firebase
-  -	**Frameworks :** Android, Flutter, Bootstrap
+  -	**Frameworks :** Android, Flutter, Bootstrap, ReactJS, NodeJS
   -	**Computer Vision :** OpenCV
   -	**Tools :** Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
   -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
