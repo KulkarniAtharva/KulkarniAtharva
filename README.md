@@ -22,7 +22,7 @@
 - 👨‍🎓 20 year old Computer Engineering Undergrad student.
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
-- 👨‍💻 Mostly working on ❤️Android 🔥Firebase!
+- 👨‍💻 Mostly working on 📱Android 🔥Firebase!
 - 🌐 Exploring Web development too.
 - 👁️ Fallen in LOVE with ❤️**Computer Vision & Digital Image Processing**
 - 🤔 ML/AI Enthusiast
