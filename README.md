@@ -40,7 +40,8 @@
 
   -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript
   -	**Databases :** MySQL, MongoDB, Firebase
-  -	**Frameworks :** Android, Flutter, Bootstrap, ReactJS, NodeJS
+  -	**Frameworks :** Android, Flutter, Bootstrap
+  - **MERN Stack :** MongoDB, ExpressJS, ReactJS, NodeJS
   -	**Computer Vision :** OpenCV
   -	**Tools :** Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
   -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
