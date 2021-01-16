@@ -28,7 +28,7 @@
 - 🤔 ML/AI Enthusiast
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
-- ⚡ Bohot Ziddi hoon
+<!--- ⚡ Bohot Ziddi hoon    -->
 - Loves 🎵 
 - Proud 🇮🇳. <BR><BR>
   
