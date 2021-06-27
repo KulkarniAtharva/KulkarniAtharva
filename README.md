@@ -19,7 +19,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 20 year old Computer Engineering Undergrad student.
+- 👨‍🎓 21 year old Computer Engineering Undergrad student.
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
