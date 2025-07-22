@@ -5,7 +5,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 25 year old Computer Engineering Undergrad student. 
+- 👨‍🎓 25 year old Computer Engineering student at IIT. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,7 +19,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 25 year old Computer Engineering Undergrad student.
+- 👨‍🎓 25 year old Computer Engineering student at IIT.
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
