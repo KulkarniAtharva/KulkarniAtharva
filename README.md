@@ -24,7 +24,7 @@
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
 - 🌐 Exploring Web development too.
-- 👁️ Fallen in LOVE with ❤️**Computer Vision & Digital Image Processing**
+- 👁️ Loves researching on ❤️**Computer Vision & Digital Image Processing**
 - 🤔 ML/AI Enthusiast
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
