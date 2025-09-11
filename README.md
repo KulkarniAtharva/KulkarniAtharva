@@ -19,7 +19,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 25 year old Computer Engineering student at IIT.
+- 👨‍🎓 25 year old Computer Engineering student .
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
