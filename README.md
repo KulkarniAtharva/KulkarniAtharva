@@ -19,13 +19,13 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 25 year old Computer Engineering student .
+- 👨‍🎓 Student at IIT Indore
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
 - 🌐 Exploring Web development too.
 - 👁️ Loves researching on ❤️**Computer Vision & Digital Image Processing**
-- 🤔 ML/AI Enthusiast
+- 🤔 ML/AI Researcher
 - ✍️ Write stuff on Medium. <BR>
 - 🦉 Night Owl
 <!--- ⚡ Bohot Ziddi hoon    -->
