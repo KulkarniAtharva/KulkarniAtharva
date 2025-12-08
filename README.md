@@ -19,7 +19,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 Student at IIT Indore
+- 👨‍🎓 Student at .
 - 👨‍💻 <B>#SelfTaught Developer.</B>
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
