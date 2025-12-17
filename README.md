@@ -19,11 +19,11 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 Student at .
+- 👨‍🎓 Student at IIT Indore
 - 👨‍💻 <B>#SelfTaught Developer.</B>
-- 📱 Mobile App developer.
+- 📱 Mobile App developer
 - 👨‍💻 Mostly working on 📱Android 🔥Firebase!
-- 🌐 Exploring Web development too.
+- 🌐 Exploring Web development too
 - 👁️ Loves researching on ❤️**Computer Vision & Digital Image Processing**
 - 🤔 ML/AI Researcher
 - ✍️ Write stuff on Medium. <BR>
