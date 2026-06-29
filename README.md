@@ -61,19 +61,16 @@ I'm a passionate **Full-Stack Web Developer** and **AI/ML Engineer in progress**
 # 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatin-sharma-87ab75204/">
+  <a href="https://www.linkedin.com/in/atharvaiitian">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/jatin_sharma_d">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Jatin-Sharma/">
+  <a href="https://leetcode.com/u/Atharva2204">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/jacksparrow_11">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/jatin_sharma_d/">
+  <a href="https://www.instagram.com/atharvakulkarni224">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
