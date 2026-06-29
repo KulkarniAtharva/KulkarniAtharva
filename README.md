@@ -11,10 +11,6 @@
 - ✍️ Write stuff on Medium. <BR>
 - Loves 🎵 
 - Proud 🇮🇳. <BR><BR>
-  
-
-
-
 
  
  ### Skills
@@ -81,11 +77,11 @@ I'm a passionate **Full-Stack Web Developer** and **AI/ML Engineer in progress**
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)    -->
+[![Linkedin: atharvaiitian](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvaiitian)](https://www.linkedin.com/in/atharvaiitian)
+
+[![GitHub KulkarniAtharva](https://img.shields.io/github/followers/KulkarniAtharva?label=follow&style=social)](https://github.com/KulkarniAtharva)    -->
 
 
-[![website](https://img.shields.io/badge/Portfolio%20Website-kulkarniatharva.github.io-blue)](https://kulkarniatharva.github.io)  
+[![website](https://img.shields.io/badge/Portfolio%20Website-atharvakulkarni-iitindore.vercel.app/-blue)](https://atharvakulkarni-iitindore.vercel.app)  
 
- #### 🔗 Know more about me here: [Atharva Kulkarni](https://kulkarniatharva.github.io) 
+ #### 🔗 Know more about me here: [Atharva Kulkarni](https://atharvakulkarni-iitindore.vercel.app) 
