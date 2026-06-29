@@ -1,33 +1,14 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Atharva 🙋‍♂️
 
-<!--
-**KulkarniAtharva/KulkarniAtharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🎍 Welcome to my hub 👨‍💻
-
-- 👨‍🎓 25 year old Computer Engineering student at IIT. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
-
-
 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 MS Research Scholar at IIT Indore
-- 👨‍💻 <B>#SelfTaught Developer.</B>
-- 📱 Mobile App developer
+- 👨‍💻 <B>SelfTaught Developer.</B>
+- 📱 Mobile App developer - Android + Flutter
 - 🌐 Full Stack Developer
 - 👁️ Loves researching on ❤️**Computer Vision & Digital Image Processing**
 - 🤔 ML/AI Researcher
 - ✍️ Write stuff on Medium. <BR>
-- 🦉 Night Owl
-<!--- ⚡ Bohot Ziddi hoon    -->
 - Loves 🎵 
 - Proud 🇮🇳. <BR><BR>
   
@@ -38,25 +19,17 @@
  
  ### Skills
 
-  -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript
-  -	**Databases :** MySQL, MongoDB, Firebase
-  -	**Frameworks :** Android, Flutter, Bootstrap
-  - **MERN Stack :** MongoDB, ExpressJS, ReactJS, NodeJS
-  -	**Computer Vision :** OpenCV
-  -	**Tools :** Git, GitHub, Firebase, JavaFX, Adobe Illustrator, Adobe XD, Adobe After Effects
-  -	**Others :** Technical Writing, UI/UX Designing, Team Leadership
+  -	**Languages :** C, C++, Java, Kotlin, Dart, Python, HTML, CSS, JavaScript, TypeScript, SQL
+  -	**Mobile Development :** Android SDK (JAVA), Flutter, Firebase
+  -	**Frontend :** React.js, HTML, CSS, Tailwind CSS, Bootstrap
+  -	**Backend :** Node.js, Express.js, REST APIs, Authentication, Client-Server Architecture
+  -	**Databases :** MySQL, MongoDB, Firebase (Firestore and Realtime database), SQLite
+  -	**Tools & Platforms :** Git, GitHub, Vercel, CI/CD, Team Leadership
+  -	**Others :** Technical Writing, UI/UX Designing
+  -	**Core CS Concepts :** OOP, DBMS, Operating Systems, Computer Networks, System Design
 
 <BR>
   
-<!-- ### No. of Projects completed
- 
- <!--- 15 Mobile Applications
- - 6 Desktop Applications which include projects in Python
- - 5 Web Projects
- - 1 Android library/API
- - 16 Certifications
- - 1 Article published.  -->
- 
 ---
 
 
@@ -70,13 +43,6 @@
     alt="Typing Animation Banner" 
   />
 </p>
-
-
-<!-- <p align="center">
-  <a href="https://github.com/Jatin-Sharma-11">
-    <img src="https://avatars.githubusercontent.com/u/77922760?v=4" width="170" style="border-radius:50%;border:3px solid #00eaff;" />
-  </a>
-</p> -->
 
 ---
 
