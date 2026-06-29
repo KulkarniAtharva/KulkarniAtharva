@@ -2,7 +2,7 @@
 
 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 MS Research Scholar at IIT Indore
+- 👨‍🎓 MS Research Scholar in Pattern Analysis & Machine Intelligence Lab at IIT Indore
 - 👨‍💻 <B>SelfTaught Developer.</B>
 - 📱 Mobile App developer - Android + Flutter
 - 🌐 Full Stack Developer
